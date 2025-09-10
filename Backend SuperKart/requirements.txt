@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+Werkzeug
+flask
+gunicorn
+requests
+uvicorn[standard]
